@@ -1,5 +1,5 @@
 Domain For Sale
 =============
-billplz.app
-e27.app
-litepay.app
+- billplz.app
+- e27.app
+- litepay.app
